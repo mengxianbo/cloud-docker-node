@@ -1,5 +1,5 @@
 
-##  镜像：ghcr.io/mengxianbo/clawcloud:3712
+##  镜像：ghcr.io/mengxianbo/cloudmxb:latest
 
 Argo 默认端口 ：8001
 
